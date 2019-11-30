@@ -1,0 +1,42 @@
+[submodule "DAQ_Spectrum_M4i4420"]
+	path = DAQ_Spectrum_M4i4420
+	url = https://github.com/razanskylab/DAQ_Spectrum_M4i4420.git
+[submodule "IOSR.git"]
+	path = IOSR.git
+	url = https://github.com/IoSR-Surrey/MatlabToolbox
+[submodule "export_fig"]
+	path = export_fig
+	url = https://github.com/altmany/export_fig.git
+[submodule "Mex_C_Serial_Interface"]
+	path = Mex_C_Serial_Interface
+	url = https://github.com/Jfriesen222/Mex_C_Serial_Interface.git
+[submodule "Cascade_Trigger"]
+	path = Cascade_Trigger
+	url = https://github.com/razanskylab/Cascade_Trigger.git
+[submodule "Quadrature_Decoder_Board"]
+	path = Quadrature_Decoder_Board
+	url = https://github.com/razanskylab/Quadrature_Decoder_Board.git
+[submodule "Laser_Sirah_Credo"]
+	path = Laser_Sirah_Credo
+	url = https://github.com/razanskylab/Laser_Sirah_Credo.git
+[submodule "Laser_Edgewave_Innoslab"]
+	path = Laser_Edgewave_Innoslab
+	url = https://github.com/razanskylab/Laser_Edgewave_Innoslab.git
+[submodule "PowerMeter_Coherent_LabMaxProSSIM"]
+	path = PowerMeter_Coherent_LabMaxProSSIM
+	url = https://github.com/razanskylab/PowerMeter_Coherent_LabMaxProSSIM.git
+[submodule "Laser_BrightSolutions_Onda"]
+	path = Laser_BrightSolutions_Onda
+	url = https://github.com/razanskylab/Laser_BrightSolutions_Onda.git
+[submodule "Stage_Thorlabs_MLJ150"]
+	path = Stage_Thorlabs_MLJ150
+	url = https://github.com/razanskylab/Stage_Thorlabs_MLJ150.git
+[submodule "Stage_Thorlabs_LNR50SEK1"]
+	path = Stage_Thorlabs_LNR50SEK1
+	url = https://github.com/razanskylab/Stage_Thorlabs_LNR50SEK1.git
+[submodule "Stage_Zaber_VoiceCoil"]
+	path = Stage_Zaber_VoiceCoil
+	url = https://github.com/razanskylab/Stage_Zaber_VoiceCoil.git
+[submodule "BaseHardwareClass"]
+	path = BaseHardwareClass
+	url = https://github.com/razanskylab/BaseHardwareClass.git
