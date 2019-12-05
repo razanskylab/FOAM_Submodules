@@ -40,3 +40,6 @@
 [submodule "BaseHardwareClass"]
 	path = BaseHardwareClass
 	url = https://github.com/razanskylab/BaseHardwareClass.git
+[submodule "fast-guided-filter"]
+	path = fast-guided-filter
+	url = https://github.com/accessify/fast-guided-filter.git
