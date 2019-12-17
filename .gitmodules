@@ -43,3 +43,6 @@
 [submodule "fast-guided-filter"]
 	path = fast-guided-filter
 	url = https://github.com/accessify/fast-guided-filter.git
+[submodule "MVolume"]
+	path = MVolume
+	url = https://github.com/razanskylab/MVolume.git
