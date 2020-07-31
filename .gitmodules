@@ -2,9 +2,6 @@
 [submodule "DAQ_Spectrum_M4i4420"]
 	path = DAQ_Spectrum_M4i4420
 	url = https://github.com/razanskylab/DAQ_Spectrum_M4i4420.git
-[submodule "Cascade_Trigger"]
-	path = Cascade_Trigger
-	url = https://github.com/razanskylab/Cascade_Trigger.git
 [submodule "Quadrature_Decoder_Board"]
 	path = Quadrature_Decoder_Board
 	url = https://github.com/razanskylab/Quadrature_Decoder_Board.git
