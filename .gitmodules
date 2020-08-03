@@ -32,6 +32,9 @@
 [submodule "BaseHardwareClass"]
 	path = BaseHardwareClass
 	url = https://github.com/razanskylab/BaseHardwareClass.git
+[submodule "PulseBlaster3000"]
+	path = PulseBlaster3000
+	url = https://github.com/r0oland/PulseBlaster3000.git
 
 # Software / Util Submodules
 [submodule "MatlabUtilities"]
