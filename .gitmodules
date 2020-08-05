@@ -68,7 +68,7 @@
 	url = https://github.com/altmany/export_fig.git
 [submodule "Mex_C_Serial_Interface"]
 	path = Mex_C_Serial_Interface
-	url = https://github.com/Jfriesen222/Mex_C_Serial_Interface.git
+	url = https://github.com/razanskylab/Mex_C_Serial_Interface
 [submodule "fast-guided-filter"]
 	path = fast-guided-filter
 	url = https://github.com/accessify/fast-guided-filter.git
