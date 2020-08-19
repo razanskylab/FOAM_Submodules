@@ -1,65 +1,87 @@
 # Harware submodules
 [submodule "DAQ_Spectrum_M4i4420"]
+	update = merge
 	path = DAQ_Spectrum_M4i4420
 	url = https://github.com/razanskylab/DAQ_Spectrum_M4i4420.git
 [submodule "Quadrature_Decoder_Board"]
+	update = merge
 	path = Quadrature_Decoder_Board
 	url = https://github.com/razanskylab/Quadrature_Decoder_Board.git
 [submodule "PowerMeter_Coherent_LabMaxProSSIM"]
+	update = merge
 	path = PowerMeter_Coherent_LabMaxProSSIM
 	url = https://github.com/razanskylab/PowerMeter_Coherent_LabMaxProSSIM.git
 [submodule "Laser_BrightSolutions_Onda"]
+	update = merge
 	path = Laser_BrightSolutions_Onda
 	url = https://github.com/razanskylab/Laser_BrightSolutions_Onda.git
 [submodule "Stage_Thorlabs_MLJ150"]
+	update = merge
 	path = Stage_Thorlabs_MLJ150
 	url = https://github.com/razanskylab/Stage_Thorlabs_MLJ150.git
 [submodule "Stage_Zaber_VoiceCoil"]
+	update = merge
 	path = Stage_Zaber_VoiceCoil
 	url = https://github.com/razanskylab/Stage_Zaber_VoiceCoil.git
 [submodule "BaseHardwareClass"]
+	update = merge
 	path = BaseHardwareClass
 	url = https://github.com/razanskylab/BaseHardwareClass.git
 [submodule "PulseBlaster3000"]
+	update = merge
 	path = PulseBlaster3000
 	url = https://github.com/r0oland/PulseBlaster3000.git
 
 # Software / Util Submodules
 [submodule "MatlabUtilities"]
 	path = MatlabUtilities
+	update = merge
 	url = https://github.com/razanskylab/MatlabUtilities.git
 [submodule "BaseClass"]
+	update = merge
 	path = BaseClass
 	url = https://github.com/razanskylab/BaseClass.git
 [submodule "MVolume"]
+	update = merge
 	path = MVolume
 	url = https://github.com/razanskylab/MVolume.git
 [submodule "FreqFilter"]
+	update = merge
 	path = FreqFilter
 	url = https://github.com/razanskylab/FrequencyFilter.git
 [submodule "Image_Filter"]
+	update = merge
 	path = Image_Filter
 	url = https://github.com/razanskylab/Image_Filter.git
 [submodule "Frangi_Filter"]
+	update = merge
 	path = Frangi_Filter
 	url = https://github.com/razanskylab/Frangi_Filter.git
 [submodule "AOVA"]
+	update = merge
 	path = AOVA
 	url = https://github.com/razanskylab/AOVA.git
 [submodule "OAM_Data"]
+	update = merge
 	path = OAM_Data
 	url = https://github.com/razanskylab/OAM_Data.git
 
 # Matlab File Exchange
 [submodule "IOSR.git"]
+	update = merge
 	path = IOSR.git
 	url = https://github.com/IoSR-Surrey/MatlabToolbox
 [submodule "export_fig"]
+	update = merge
 	path = export_fig
 	url = https://github.com/altmany/export_fig.git
 [submodule "Mex_C_Serial_Interface"]
+	update = merge
 	path = Mex_C_Serial_Interface
 	url = https://github.com/razanskylab/Mex_C_Serial_Interface
 [submodule "fast-guided-filter"]
+	update = merge
 	path = fast-guided-filter
 	url = https://github.com/accessify/fast-guided-filter.git
+
+
