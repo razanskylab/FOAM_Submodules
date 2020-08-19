@@ -5,12 +5,6 @@
 [submodule "Quadrature_Decoder_Board"]
 	path = Quadrature_Decoder_Board
 	url = https://github.com/razanskylab/Quadrature_Decoder_Board.git
-[submodule "Laser_Sirah_Credo"]
-	path = Laser_Sirah_Credo
-	url = https://github.com/razanskylab/Laser_Sirah_Credo.git
-[submodule "Laser_Edgewave_Innoslab"]
-	path = Laser_Edgewave_Innoslab
-	url = https://github.com/razanskylab/Laser_Edgewave_Innoslab.git
 [submodule "PowerMeter_Coherent_LabMaxProSSIM"]
 	path = PowerMeter_Coherent_LabMaxProSSIM
 	url = https://github.com/razanskylab/PowerMeter_Coherent_LabMaxProSSIM.git
@@ -20,9 +14,6 @@
 [submodule "Stage_Thorlabs_MLJ150"]
 	path = Stage_Thorlabs_MLJ150
 	url = https://github.com/razanskylab/Stage_Thorlabs_MLJ150.git
-[submodule "Stage_Thorlabs_LNR50SEK1"]
-	path = Stage_Thorlabs_LNR50SEK1
-	url = https://github.com/razanskylab/Stage_Thorlabs_LNR50SEK1.git
 [submodule "Stage_Zaber_VoiceCoil"]
 	path = Stage_Zaber_VoiceCoil
 	url = https://github.com/razanskylab/Stage_Zaber_VoiceCoil.git
@@ -72,5 +63,3 @@
 [submodule "fast-guided-filter"]
 	path = fast-guided-filter
 	url = https://github.com/accessify/fast-guided-filter.git
-
-
