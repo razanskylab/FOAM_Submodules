@@ -65,6 +65,11 @@
 	path = OAM_Data
 	url = https://github.com/razanskylab/OAM_Data.git
 
+[submodule "PD_Cal"]
+	update = merge
+	path = PD_Cal
+	url = https://github.com/razanskylab/pdcalib.git
+
 # Matlab File Exchange
 [submodule "export_fig"]
 	update = merge
