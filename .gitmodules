@@ -3,6 +3,11 @@
 	update = merge
 	path = DAQ_Spectrum_M4i4420
 	url = https://github.com/razanskylab/DAQ_Spectrum_M4i4420.git
+
+[submodule "COROAM_Brains"]
+	update = merge
+	path = COROAM_Brains
+	url = https://github.com/r0oland/COROAM_Brains.git
 	
 [submodule "Quadrature_Decoder_Board"]
 	update = merge
