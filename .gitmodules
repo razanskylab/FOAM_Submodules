@@ -80,10 +80,3 @@
 	update = merge
 	path = export_fig
 	url = https://github.com/altmany/export_fig.git
-
-[submodule "Mex_C_Serial_Interface"]
-	update = merge
-	path = Mex_C_Serial_Interface
-	url = https://github.com/razanskylab/Mex_C_Serial_Interface
-
-
